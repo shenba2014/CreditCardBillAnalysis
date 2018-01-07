@@ -2,6 +2,7 @@
 just a credit card bill analysis using python(pandas, numpy), now it only support credit card of CCB
 
 usage:
+
 0.First download your bill data from CCB
 1.Analysis for each day and compare by month
 For example:
